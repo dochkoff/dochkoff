@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on remote job
-- 📫 You can reach me at dochkoff@gmail.com
+- 📫 You can reach me at hounds.07cinder@icloud.com
 
 <!---
 dochkoff/dochkoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
