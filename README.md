@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dochkoff
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on remote job
+- 💞️ I’m looking to collaborate on full time or remote job
 - 📫 You can reach me at hounds.07cinder@icloud.com
 
 <!---
