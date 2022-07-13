@@ -10,6 +10,8 @@
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=dochkoff&theme=gotham&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dochkoff&show_icons=true&&count_private=true&cache_seconds=86400&theme=gotham"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dochkoff&layout=compact)](https://github.com/dochkoff/github-readme-stats)
 <!---
 dochkoff/dochkoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
