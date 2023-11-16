@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning C# at SoftUni
 - 🧐 I’m looking to collaborate on full time or remote job
-- 📫 You can reach me at hounds.07cinder@icloud.com
+- 📫 You can reach me at hounds.07cinder@icloud.com (using iCloud Hide My Email)
 
 <h4 align="center"><i>Some Stats</i></h4>
 
